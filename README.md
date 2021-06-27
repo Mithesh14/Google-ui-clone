@@ -1,7 +1,7 @@
 # Google UI
 ✏️ Here I developed the Google UI using html, css and Javascript ❗
 
-# Project deployed at
+# Project Link
 
 <a href="https://mithesh14.github.io/Github-profile/">Google UI</a>
 
