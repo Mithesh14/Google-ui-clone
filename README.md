@@ -3,7 +3,7 @@
 
 # Project Link
 
-<a href="https://mithesh14.github.io/Github-profile/">Google UI</a>
+<a href="https://mithesh14.github.io/Google-ui-clone/">Google UI</a>
 
 # Screenshots 
 
